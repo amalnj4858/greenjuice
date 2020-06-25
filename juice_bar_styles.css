@@ -1,0 +1,32 @@
+body,html{
+	background-image: url(https://www.organicauthority.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1000/MTU5MzMwNDY2NzQxMTY3NzEy/green-juice-detox.webp);
+	height: 100%;	
+	width: 100%;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat; 
+	color: rgba(0,0,0,0.8);
+}
+
+.order{
+	font-family: 'MuseoModerno', cursive;
+	font-size: 2rem;
+}
+.buffer{
+	height: 30px;
+}
+
+h1{
+	font-family: 'MuseoModerno', cursive;
+	font-size: 4rem;
+	border-right: 10px;
+	border-bottom: 10px;
+}
+
+.Thank{
+	text-align: center;
+}
+
+.def{
+	font-size: 2em;
+}
